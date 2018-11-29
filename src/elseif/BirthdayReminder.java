@@ -16,12 +16,14 @@ public class BirthdayReminder {
 		String myBirthday = "April 16th";
 
 		// 2. Find out which birthday the user wants and and store their response in a variable
-	 String kfc=JOptionPane.showInputDialog("what birthday do you want");
+	JOptionPane.showInputDialog("which birthday do you want");
 		
 	 // 3. Print out what the user typed
-		System.out.println(kfc);
+		System.out.println();
+		
 		// 4. if user asked for "mom"
-			//print mom's birthday
+		String momsBirthday = "January 24th";JOptionPane.showMessageDialog("");
+		//print mom's birthday
 		// 5. if user asked for "dad"
 			// print dad's birthday
 		// 6. if user asked for your name
