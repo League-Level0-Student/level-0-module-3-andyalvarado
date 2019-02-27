@@ -32,7 +32,7 @@ JOptionPane.showMessageDialog(null, dadsBirthday);		}
 		
 		
 		
-			if (i.equals(Andy)) {
+			if (i.equals("andy")) {
 				JOptionPane.showMessageDialog(null,myBirthday);
 			}
 			// print myBirthday
