@@ -69,7 +69,4 @@ String mtb=JOptionPane.showInputDialog(null,"Whats your star sign");
 
 
 
-
-
-
 }}
